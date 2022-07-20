@@ -28,7 +28,7 @@ class WordleClass(mysqlCon):
         global tmpRandomChoice
         # This code is to get final word list from file.
         self.listAns = []
-        file = open("C:/Users/Tanveer/Desktop/Dictionary_words.txt", "r")
+        file = open("Dictionary_words.txt", "r")
         self.listAns = file.read().split('\n')
         file.close()
 
