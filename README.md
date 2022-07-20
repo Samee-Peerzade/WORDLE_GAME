@@ -16,19 +16,26 @@
 ![5](https://user-images.githubusercontent.com/109617585/179922548-76e373bf-1314-49ea-945f-b32cfc1b264a.JPG)
 
 
-step1:First game window- 
+
+step1:First game window
+
 
 ![1](https://user-images.githubusercontent.com/109617585/179923757-21501719-ebe4-4153-9a85-a5c0462f81aa.JPG)
 
+
 step2: Register for game 
 
+
 ![2](https://user-images.githubusercontent.com/109617585/179923983-de8ab7e2-5605-4fde-a413-8ad83d7e574c.JPG)
+
+
 
 step3: Login game and Enter game window
 
 
 ![3](https://user-images.githubusercontent.com/109617585/179924167-e0c9bcb8-01de-4e86-be7c-509e4dde9061.JPG)
 ![4](https://user-images.githubusercontent.com/109617585/179924301-31626dbe-2c15-4dac-bff5-33941e4701ee.JPG)
+
 
 
 step4: Play game, use hint ( Enjoy)
